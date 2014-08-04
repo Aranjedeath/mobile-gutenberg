@@ -14,7 +14,7 @@ Site is to be optimized for phone access via 3g (not 3.5g). Writing, editing, an
 - [jekyll-sort](https://github.com/kylepaulsen/Jekyll-Sort)
 - [jekyll-ga](https://github.com/developmentseed/jekyll-ga) or similar
 - [jekyll-filename](https://github.com/developmentseed/jekyll-filename)
-- [jQuery](http://jquery.com/)
+- [jQuery](http://jquery.com/) / [jQlite](https://code.google.com/p/jqlite/)
 - [Isotope](http://isotope.metafizzy.co/)
 - some mobile-first (mobile-only?) css
 - perhaps a cronjob to regenerate the homepage instead of isotope+company. with css variables perhaps it can be randomized in css and not via js.
