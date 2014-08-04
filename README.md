@@ -16,6 +16,7 @@ Site is to be optimized for phone access via 3g (not 3.5g). Writing, editing, an
 - [jekyll-filename](https://github.com/developmentseed/jekyll-filename)
 - [jQuery](http://jquery.com/) / [jQlite](https://code.google.com/p/jqlite/)
 - [Isotope](http://isotope.metafizzy.co/)
+- ?[Poole](https://github.com/poole/poole) + [Lanyon](http://lanyon.getpoole.com/)
 - some mobile-first (mobile-only?) css
 - perhaps a cronjob to regenerate the homepage instead of isotope+company. with css variables perhaps it can be randomized in css and not via js.
 
@@ -28,7 +29,7 @@ Things which will make this better, offsite:
 ### Still to research
 what jekyll plugins does github pages support? (IE: can there be a stripped down version of this project which can be run entirely through github, with an acceptable level of compromise to the design constraints?)
 
-is jQuery even feasible on mobile, due to how fucking gigantic it is? can a smaller version be built that gets rid of animations and things, while being significantly smaller?
+is jQuery even feasible on mobile, due to how fucking gigantic it is? can a smaller version be built that gets rid of animations and things, while being significantly smaller? -> jQlite seems to answer this. How powerful it is, is another question. I'd rather avoid js anywhere other than the editing interface, if I can (and for that, prose will do).
 
 
 
