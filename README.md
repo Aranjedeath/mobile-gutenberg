@@ -40,6 +40,7 @@ analytics for journalists -> interviews for what qualifies as a good article
 - [Isotope](http://isotope.metafizzy.co/) or [Masonry.js](http://masonry.desandro.com/) or [Salvattore](http://salvattore.com/) or [FreeTile](http://yconst.com/web/freetile/)
 - [ImagesLoaded](http://imagesloaded.desandro.com/)
 - [Lato](https://www.google.com/fonts/specimen/Lato) or [Raleway](http://www.google.com/fonts/specimen/Raleway) 900 for titles, [Merriweather](http://www.google.com/fonts/specimen/Merriweather) for body. [Source Code Pro](https://www.google.com/fonts/specimen/Source+Code+Pro) for blockquotes. With money, use [skolar](https://www.rosettatype.com/Skolar)/[huronia](https://www.rosettatype.com/Huronia) for body, [Satyr](https://monokrom.no/fonts/satyr) for blockquotes, idk for titles maybe [Lumin Sans Thin](https://www.typotheque.com/site/fonts.php?id=79&tn=sample_text&style=1199&size=waterfall&regen=1) or something.
+- These all look absolutely gorgeous, but serif/sans-serif/monospace are the least KiB.
 
 
 ### Scratchpad
