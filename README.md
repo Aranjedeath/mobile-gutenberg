@@ -3,6 +3,8 @@ mobile-gutenberg
 
 It's my intent to create a guide, and glue-code where necessary, for a news site which is collaboratively written and edited. This is the repository for such.
 
+This is just a mirage, a collation. disregard. PR's welcome.
+
 ### Intentional Design Constraints
 Site is to be optimized for phone access via 3g (not 3.5g). Writing, editing, and all the rest, should all be possible on a smartphone. Any page load optimizations which can be made at generation-time, should be made. Every KiB counts on an unstable/slow connection. TLS is mandatory (you don't hate your users, writers, contributors, or editors, do you?). Ads are not allowed. 
 
@@ -51,6 +53,14 @@ principle of least effort
 principle of least authority
 privacy: the capacity to continue personal information asymmetries
 static pages as technological force multiplier due to global caching
+fuck unequal power dynamics
+truth above all else
+militant transparency
+flat ontologies and power arrangements prevent idolization and minimize exploitation
+"neutralization of unequal power dynamics and distributions written into the sourcecode"
+fiat as triage for poverty, time as arbiter of experience, edit for alacrity, sympathetic imagination as organizational structure, link all the things, 
+editorial policy: people are named as they introduce themselves, and pronouned as they do. 
+before peace, there must be justice. before equality, there must be equity.
 ads = brand dilution.
 must be able to run site on income of a coffee farmer
 hmmhmm. public infrastructure is public whether the law reflects that or not. Usage patterns are defacto.
@@ -58,22 +68,21 @@ risk is energy, it cannot be created or destroyed only changed.
 conservation of mass, conservation of energy, laws of thermodynamics, all are the same thing.
 you can transfer risk onto another party via contract, practice, or system, but it can never be created or destroyed. 
 what principles guide this software? how is the world constructed?
-https://versahq.com/
+least-bad ads: "Wealth or at least a humble self-sustaining income will be yours for the mere cost of a few inches of your website. This is a very, very powerful message, if you don't notice the Pimp behind it." -[sauce](http://www.textfiles.com/thoughts/advertising.html)
+versahq, project wonderful.
 embedly
 challenge: being leaked to
-
-this is just a mirage, a collation. disregard. PR's welcome.
 
 ideé: because this is designed to be loaded via 3g, pop a small js in that quicktests the navigationtiming1/2 PLT. If it's under a ceiling, ajax in extra functionality.
 
 ### spam (copy-pasted from notepad)
-list: chartbeat (for total time reading and similar), gravity, outbrain, storify, versahq for news sites to deliver Featured Perspectives at 100-290 CPMv, 
-licenses: ask author, CC selection. 
+list: chartbeat (for TTR and similar), gravity (pinch hit), storify
+licenses: Author chooses at creation time, select from CC licenses.
 jekyll for output, something which can emit markdown for the writing interface. apache for writing interface, nginx/lighttpd for static html. 
 
 so, use prose.io with a private github repo (25/mo for org), with jekyll-hook and a 5/mo digital ocean box for hosting. google apps for email.
-ask joepie for recs around this. why can't I do this without github? can prose be deployed with no git backing? can I just use, say, cryto git hosting? could even take jekyll-hook and push to s3 with cloudfront in front. 
-embedly, 
+why can't I do this without github? can prose be deployed with alternative git backing? can I just use, say, cryto git hosting? could even take jekyll-hook and push to s3 with cloudfront in front. 
+
 https://github.com/developmentseed/jekyll-hook, 
 http://hallojs.org/demo/markdown/ ( https://github.com/bergie/hallo )
 http://joshualande.com/jekyll-github-pages-poole/
@@ -89,7 +98,5 @@ https://github.com/jarofghosts/peabody
 http://aloha-editor.org/ http://wymeditor.github.io/wymeditor/
 http://developmentseed.org/blog/all/
 MOD PAGESPEED! AND CLOUDFLARE
-
-jquery all over the homepage, which will be ranked popular/recent posts (no carousels. ever.), and things like http://isotope.metafizzy.co/ for dynamic views every time someone looks at it. 
 
 TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256
