@@ -45,59 +45,101 @@ analytics for journalists -> interviews for what qualifies as a good article
 
 ### Scratchpad
 militant transparency without Real Names™
+
 transparency without authority. authentication without authorization
+
 collaborative news, at writing and editing level, with nyms not names
+
 http://openrouteservice.org/
+
 http://www.hotosm.org/
+
 http://mapnik.org/
+
 principle of least effort
+
 principle of least authority
+
 privacy: the capacity to continue personal information asymmetries
+
 static pages as technological force multiplier due to global caching
+
 fuck unequal power dynamics
+
 truth above all else
+
 militant transparency
+
 flat ontologies and power arrangements prevent idolization and minimize exploitation
+
 "neutralization of unequal power dynamics and distributions written into the sourcecode"
+
 fiat as triage for poverty, time as arbiter of experience, edit for alacrity, sympathetic imagination as organizational structure, link all the things, 
-editorial policy: people are named as they introduce themselves, and pronouned as they do. 
+editorial policy: people are named as they introduce themselves, and pronouned as they do.
+
 before peace, there must be justice. before equality, there must be equity.
+
 ads = brand dilution.
+
 must be able to run site on income of a coffee farmer
+
 hmmhmm. public infrastructure is public whether the law reflects that or not. Usage patterns are defacto.
+
 risk is energy, it cannot be created or destroyed only changed. 
 conservation of mass, conservation of energy, laws of thermodynamics, all are the same thing.
-you can transfer risk onto another party via contract, practice, or system, but it can never be created or destroyed. 
+you can transfer risk onto another party via contract, practice, or system, but it can never be created or destroyed.
+
 what principles guide this software? how is the world constructed?
+
 least-bad ads: "Wealth or at least a humble self-sustaining income will be yours for the mere cost of a few inches of your website. This is a very, very powerful message, if you don't notice the Pimp behind it." -[sauce](http://www.textfiles.com/thoughts/advertising.html)
+
 versahq, project wonderful.
+
 embedly
+
 challenge: being leaked to
 
 ideé: because this is designed to be loaded via 3g, pop a small js in that quicktests the navigationtiming1/2 PLT. If it's under a ceiling, ajax in extra functionality.
 
 ### spam (copy-pasted from notepad)
 list: chartbeat (for TTR and similar), gravity (pinch hit), storify
+
 licenses: Author chooses at creation time, select from CC licenses.
+
 jekyll for output, something which can emit markdown for the writing interface. apache for writing interface, nginx/lighttpd for static html. 
 
 so, use prose.io with a private github repo (25/mo for org), with jekyll-hook and a 5/mo digital ocean box for hosting. google apps for email.
+
 why can't I do this without github? can prose be deployed with alternative git backing? can I just use, say, cryto git hosting? could even take jekyll-hook and push to s3 with cloudfront in front. 
 
-https://github.com/developmentseed/jekyll-hook, 
+https://github.com/developmentseed/jekyll-hook,
+
 http://hallojs.org/demo/markdown/ ( https://github.com/bergie/hallo )
+
 http://joshualande.com/jekyll-github-pages-poole/
+
 https://github.com/kylepaulsen/Jekyll-Sort
+
 https://github.com/developmentseed/jekyll-ga
+
 http://jekyllrb.com/docs/plugins/
+
 https://github.com/barryclark/jekyll-now
+
 http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/
+
 https://help.github.com/articles/using-jekyll-plugins-with-github-pages
+
 https://github.com/chartbeat-labs
+
 https://github.com/jarofghosts/peabody
 
-http://aloha-editor.org/ http://wymeditor.github.io/wymeditor/
+http://aloha-editor.org/ 
+
+http://wymeditor.github.io/wymeditor/
+
 http://developmentseed.org/blog/all/
+
 MOD PAGESPEED! AND CLOUDFLARE
 
 TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256
